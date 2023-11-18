@@ -14,7 +14,7 @@
 - erhaltender Knoten, in diesem Fall: die Folge, in der ein Teilnehmer anwesend war beziehungsweise eine Person, die sich einer bestimmten Partei zuordnen lässt
 
 **relationship**
-- definiert die Art der Beziehung bei multiplexen Netzwerken mit verschiedenen Beziehungsarten, in diesem Fall: Handelt es sich um eine Beziehung zwsichen einer Person und einer Folge oder handelt es sich um eine Beziehung zwischen einer Person und einer Partei?
+- definiert die Art der Beziehung bei multiplexen Netzwerken mit verschiedenen Beziehungsarten, in diesem Fall: Handelt es sich um eine Beziehung zwischen einer Person und einer Folge oder handelt es sich um eine Beziehung zwischen einer Person und einer Partei?
 
 # Node-Attribute
 
