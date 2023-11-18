@@ -1,11 +1,11 @@
-#Anne Will: Teilnehmer
+# Anne Will: Teilnehmer
 
-##Inhalt
+## Inhalt
 - Edges.csv (Edgelist)
 - Nodes.csv (Nodelist)
 - Codebuch.md (Codierung der Datensätze)
 
-#Edge-Attribute
+# Edge-Attribute
 
 **from**
 - iniitierender Knoten, in diesem Fall: Teilnehmer oder Partei
@@ -16,7 +16,7 @@
 **relationship**
 - definiert die Art der Beziehung bei multiplexen Netzwerken mit verschiedenen Beziehungsarten, in diesem Fall: Handelt es sich um eine Beziehung zwsichen einer Person und einer Folge oder handelt es sich um eine Beziehung zwischen einer Person und einer Partei?
 
-#Node-Attribute
+# Node-Attribute
 
 **id**
 - eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird.
